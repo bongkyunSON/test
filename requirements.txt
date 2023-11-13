@@ -1,0 +1,12 @@
+#openai
+openai==0.28.1
+python-dotenv
+streamlit
+requests
+streamlit_chat
+pydantic
+langchain
+ctransformers
+chromadb
+tiktoken
+fastapi
